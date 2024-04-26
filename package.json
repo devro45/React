@@ -1,0 +1,35 @@
+{
+  "name": "namaste-javascript",
+  "version": "1.0.0",
+  "description": "this is my react",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devro45/React.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Dev Arora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devro45/React/issues"
+  },
+  "homepage": "https://github.com/devro45/React#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "postcss": "^8.4.35",
+    "prettier": "3.2.5",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.1"
+  }
+}
